@@ -1,3 +1,12 @@
-Console.WriteLine("Hello World");
-Console.WriteLine("Teste de Print");
-console.WriteLine("feito no github");
+using System;
+namespace calculadora{
+    internal class Program{
+        static void Main(string[] args)
+        {
+            /////////Calculadora Simples Usando Entrada e Saída/////////////
+
+            Console.WriteLine("===----------CALCULADORA SIMPLES----------===");
+
+        }
+    }
+}
